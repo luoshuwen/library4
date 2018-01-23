@@ -1,0 +1,12 @@
+E:\program\library4\library4\bin\Debug\library4.exe
+E:\program\library4\library4\bin\Debug\library4.pdb
+E:\program\library4\library4\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\program\library4\library4\obj\x86\Debug\library4.Form1.resources
+E:\program\library4\library4\obj\x86\Debug\library4.Properties.Resources.resources
+E:\program\library4\library4\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\program\library4\library4\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\program\library4\library4\obj\x86\Debug\library4.exe
+E:\program\library4\library4\obj\x86\Debug\library4.pdb
+E:\program\library4\library4\obj\x86\Debug\library4.reader.resources
+E:\program\library4\library4\obj\x86\Debug\library4.Formmanager.resources
+E:\program\library4\library4\obj\x86\Debug\library4.supermanager.resources
